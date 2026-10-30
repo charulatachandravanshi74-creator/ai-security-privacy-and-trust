@@ -1,0 +1,8 @@
+{
+  "name": "TrustShield AI - AI Security, Privacy & Trust Platform",
+  "description": "Enterprise-grade AI-powered security threat detection, PII safeguarding, privacy impact assessment generation, and compliance auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
